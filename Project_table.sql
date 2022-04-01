@@ -14,7 +14,7 @@ create table Product(Product_ID varchar(30) PRIMARY KEY, Item_Name varchar(30), 
 select * 
 from Product
 
-create table Employee (Employee_ID varchar(30) PRIMARY KEY, Employee_Name varchar(100), Email varchar(100))
+create table Employee (Employee_ID varchar(30) PRIMARY KEY, Employee_Name varchar(100), Email varchar(100), Employee_Location varchar(100))
 
 select * 
 from Employee
