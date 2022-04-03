@@ -13,10 +13,10 @@ use Employee_Performance
 SELECT * FROM INFORMATION_SCHEMA.TABLES;
 GO
 
---index created on Employee Table
+--index created on Employee Table on Employee_Name column
 CREATE INDEX index1 ON dbo.Employee (Employee_Name);
 
---index created on Product Table
+--index created on Product Table on Item_Name column
 CREATE INDEX index2 ON dbo.Product (Item_Name);
 
 --checking index name, index keys and index description of the Product table
@@ -98,7 +98,7 @@ WHERE
 ORDER BY 
      t.name, ind.name, ind.index_id, ic.is_included_column, ic.key_ordinal;
 
--- creating non-clustered index on production table
+-- creating non-clustered index on production table on date column
 CREATE INDEX DateIndex ON dbo.Production_Table (Produced_Date);
 
 --renaming the employee table index
