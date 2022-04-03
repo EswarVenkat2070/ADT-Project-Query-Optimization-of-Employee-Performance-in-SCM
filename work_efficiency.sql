@@ -68,7 +68,7 @@ Produced_Quantity/Total_Quantity = 80/200 = 0.4 80 = x
 c per day = 80/8 = 10 prod per hr = y
 */
 
--- this query calculates the work effeciency
+-- calculating the work effeciency
 SELECT CAST(Produced_Quantity AS DECIMAL(5,2))/Total_Quantity AS  'x' , Produced_Quantity/Work_hours AS 'Prod per hour (y)' FROM Production;
 
 
