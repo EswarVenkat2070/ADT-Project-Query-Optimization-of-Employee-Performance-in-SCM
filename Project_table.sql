@@ -83,39 +83,39 @@ INSERT into Product(Product_ID, Item_Name, Item_Info) values(
 	
 INSERT into Employee(Employee_ID, Employee_Name, Email) values(
         '1001',
-        'Dr. Ziad Kobti',
-        'kobti@uwindsor.ca'
+        'Ms. Amangel Bhullar',
+        'bhull113@uwindsor.ca'
     ),
    (
         '1002',
-        'Dr. Abedalrhman Alkhateeb',
-        'alkhate@uwindsor.ca'
+        'Ms. Hani Pankajkumar Bhavsar',
+        'bhavsa92@uwindsor.ca'
     ),
 	(
         '1003',
-        'Dr. Prashanth Cheluvasai Ranga',
-        'Prashanth.CheluvasaiRanga@uwindsor.ca'
+        'Ms. Preetika Chhotray',
+        'chhotra@uwindsor.ca'
     ),
 	(
         '1004',
-        'Dr. Usama Mir',
-        'Usama.Mir@uwindsor.ca'
+        'Ms. Janani Suresh Kumar',
+        'sureshkj@uwindsor.ca'
 
     ),
 	(
         '1005',
-        'Dr. Kalyani Selvarajah',
-        'Kalyani.Selvarajah@uwindsor.ca'
+        'Ms. Abinaya Elanchezhian',
+        'elanche@uwindsor.ca'
     ),
 	(
         '1006',
-        'Ms. Melissa Robinet',
-        'Melissa.Robinet@uwindsor.ca'
+        'Ms. Lakshmi Vardhani Pravallika Munukutla',
+        'munukut@uwindsor.ca'
     ),
 	(
         '1007',
-        'Dr. Shafaq Khan',
-        'Shafaq.Khan@uwindsor.ca'
+        'Mr. Abhijith Sathyan',
+        'sathyana@uwindsor.ca'
     ),
 	(
         '1008',
