@@ -10,4 +10,4 @@ Team Info:
 3. Vishal Jayaraman
 
 Project Overview:
-Our project aims to leverage utilization of stock resources to the work efficiency of employees through a tailored analytical approach with the application of signicant database concepts such as Query Optimization, Normalization and Indexing.  
+Our project aims to leverage utilization of stock resources to the work efficiency of employees through a tailored analytical approach with the application of signicant database concepts such as Query Optimization, Tuning and Indexing.  
